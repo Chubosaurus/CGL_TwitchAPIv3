@@ -32,10 +32,6 @@ namespace UT_WINFORMS
             TwitchAPI.ClientId = "YOUR_CLIENT_ID";
             TwitchAPI.TwitchCallbackUri = new Uri("http://localhost");
             TwitchAPI.ChannelName = "YOUR_CHANNEL";
-
-            TwitchAPI.ClientId = "29o143sskq8vdbqni90ms9d5pk68cnf";            
-            TwitchAPI.TwitchCallbackUri = new Uri("http://www.chubosaurus.com");
-            TwitchAPI.ChannelName = "chubosaurus";
         }
 
         /// <summary>
