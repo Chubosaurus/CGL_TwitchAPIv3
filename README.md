@@ -1,3 +1,5 @@
+<img src="http://i.imgur.com/SslrEi2.png" alt="PCL_TwitchAPIv3 Unit Test">
+
 # PCL_TwitchAPIv3
 An Asynchronous Portal Class Library for Twitch API version 3
 
@@ -12,7 +14,7 @@ An Asynchronous Portal Class Library for Twitch API version 3
 ####Setup
 
 1. Add the CGL_TwitchAPIv3 (Portable) project into your solution.
-2. You can use as is...if you have an OAUTH token and ClientId from Twitch, else you need to create a new class that inhertits from CGL_TwitchAPIv3 and override public virtual string GetOAuthToken() to create your own custom form.
+2. You can use as is...if you have an OAUTH token and ClientId from Twitch, else you need to create a new class that inherits from CGL_TwitchAPIv3 and override the public virtual string GetOAuthToken() to create your own custom form interface.
 3. You can see an example of this in UT_WINFORMS project (WINFORMS Unit Test Project that is included in this repository).
 
 ---
