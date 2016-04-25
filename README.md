@@ -1,6 +1,5 @@
-<img src="http://i.imgur.com/SslrEi2.png" alt="PCL_TwitchAPIv3 Unit Test">
 
-# PCL_TwitchAPIv3
+# CGL_TwitchAPIv3
 An Asynchronous Portal Class Library for Twitch API version 3
 
 >dotNET v4.5 (WINFORMS, WPF, etc...)<br>
@@ -8,6 +7,9 @@ An Asynchronous Portal Class Library for Twitch API version 3
 >WINDOWS PHONE 8 Silverlight<br>
 >WINDOWS PHONE 8.1<br> 
 >XBOX<br> 
+
+<img src="http://i.imgur.com/SslrEi2.png" alt="PCL_TwitchAPIv3 Unit Test">
+
 
 ---
 
