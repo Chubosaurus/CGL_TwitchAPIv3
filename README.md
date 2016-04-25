@@ -45,14 +45,14 @@ TwitchVideoList_Response GET_TOP_VIDEOS = await TwitchAPI.GetTopVideos();
 ---
 
 ####License Information
-PCL_TwitchAPIv3 is licensed under Attribution-NonCommercial-ShareAlike **CC BY-NC-SA**
+CGL_TwitchAPIv3 is licensed under Attribution-NonCommercial-ShareAlike **CC BY-NC-SA**
 
 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"></a>
 
 ---
 
 ####Other
-PCL_TwitchAPIv3 uses <a href="http://www.newtonsoft.com/json">Json.NET - Newtonsoft</a> as its JSON library.
+CGL_TwitchAPIv3 uses <a href="http://www.newtonsoft.com/json">Json.NET - Newtonsoft</a> as its JSON library.
 
 
 
